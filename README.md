@@ -4,6 +4,7 @@
 python -m venv scrap
 
 -- Activate VENV --
+
 cd scrap
 cd Scripts
 activate
